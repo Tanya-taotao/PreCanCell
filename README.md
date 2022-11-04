@@ -34,4 +34,4 @@ results <- PreCanCell_classifier(testdata, 2)
 ```
 
 # Contact
-E-mail any questions to Tao Yang yangtao@stu.cpu.edu.cn, Dandan Song dandan.song@stu.cpu.edu.cn, Xiaosheng Wang xiaosheng.wang@cpu.edu.cn
+E-mail any questions to Tao Yang yangtao@stu.cpu.edu.cn and Xiaosheng Wang xiaosheng.wang@cpu.edu.cn
