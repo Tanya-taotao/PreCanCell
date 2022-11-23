@@ -8,6 +8,7 @@
 #' @importFrom parallel makeCluster stopCluster
 #' @importFrom doParallel registerDoParallel
 #' @importFrom foreach foreach
+#' @importFrom foreach %dopar%
 #' @importFrom stats predict
 #'
 #' @return A dataframe with 2 columns:
